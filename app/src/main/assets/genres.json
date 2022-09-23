@@ -1,0 +1,732 @@
+{
+    "data": [
+        {
+            "genre": "Comedy",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/452/tiny.jpg?1408441507",
+                "small": "https://media.kitsu.io/anime/poster_images/452/small.jpg?1408441507",
+                "medium": "https://media.kitsu.io/anime/poster_images/452/medium.jpg?1408441507",
+                "large": "https://media.kitsu.io/anime/poster_images/452/large.jpg?1408441507",
+                "original": "https://media.kitsu.io/anime/poster_images/452/original.jpg?1408441507",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Fantasy",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/7439/tiny.jpg?1408461358",
+                "small": "https://media.kitsu.io/anime/poster_images/7439/small.jpg?1408461358",
+                "medium": "https://media.kitsu.io/anime/poster_images/7439/medium.jpg?1408461358",
+                "large": "https://media.kitsu.io/anime/poster_images/7439/large.jpg?1408461358",
+                "original": "https://media.kitsu.io/anime/poster_images/7439/original.jpg?1408461358",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Romance",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/5120/tiny.jpg?1408454405",
+                "small": "https://media.kitsu.io/anime/poster_images/5120/small.jpg?1408454405",
+                "medium": "https://media.kitsu.io/anime/poster_images/5120/medium.jpg?1408454405",
+                "large": "https://media.kitsu.io/anime/poster_images/5120/large.jpg?1408454405",
+                "original": "https://media.kitsu.io/anime/poster_images/5120/original.jpg?1408454405",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Action",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/8022/tiny.jpg?1408463258",
+                "small": "https://media.kitsu.io/anime/poster_images/8022/small.jpg?1408463258",
+                "medium": "https://media.kitsu.io/anime/poster_images/8022/medium.jpg?1408463258",
+                "large": "https://media.kitsu.io/anime/poster_images/8022/large.jpg?1408463258",
+                "original": "https://media.kitsu.io/anime/poster_images/8022/original.png?1408463258",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "School Life",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/5167/tiny.jpg?1408454545",
+                "small": "https://media.kitsu.io/anime/poster_images/5167/small.jpg?1408454545",
+                "medium": "https://media.kitsu.io/anime/poster_images/5167/medium.jpg?1408454545",
+                "large": "https://media.kitsu.io/anime/poster_images/5167/large.jpg?1408454545",
+                "original": "https://media.kitsu.io/anime/poster_images/5167/original.jpg?1408454545",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Drama",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/6274/tiny.jpg?1408457945",
+                "small": "https://media.kitsu.io/anime/poster_images/6274/small.jpg?1408457945",
+                "medium": "https://media.kitsu.io/anime/poster_images/6274/medium.jpg?1408457945",
+                "large": "https://media.kitsu.io/anime/poster_images/6274/large.jpg?1408457945",
+                "original": "https://media.kitsu.io/anime/poster_images/6274/original.jpg?1408457945",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Adventure",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/3053/tiny.jpg?1408448530",
+                "small": "https://media.kitsu.io/anime/poster_images/3053/small.jpg?1408448530",
+                "medium": "https://media.kitsu.io/anime/poster_images/3053/medium.jpg?1408448530",
+                "large": "https://media.kitsu.io/anime/poster_images/3053/large.jpg?1408448530",
+                "original": "https://media.kitsu.io/anime/poster_images/3053/original.jpg?1408448530",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Science Fiction",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/3053/tiny.jpg?1408448530",
+                "small": "https://media.kitsu.io/anime/poster_images/3053/small.jpg?1408448530",
+                "medium": "https://media.kitsu.io/anime/poster_images/3053/medium.jpg?1408448530",
+                "large": "https://media.kitsu.io/anime/poster_images/3053/large.jpg?1408448530",
+                "original": "https://media.kitsu.io/anime/poster_images/3053/original.jpg?1408448530",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Sports",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/7583/tiny.jpg?1408461813",
+                "small": "https://media.kitsu.io/anime/poster_images/7583/small.jpg?1408461813",
+                "medium": "https://media.kitsu.io/anime/poster_images/7583/medium.jpg?1408461813",
+                "large": "https://media.kitsu.io/anime/poster_images/7583/large.jpg?1408461813",
+                "original": "https://media.kitsu.io/anime/poster_images/7583/original.jpg?1408461813",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Historical",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/6343/tiny.jpg?1408458130",
+                "small": "https://media.kitsu.io/anime/poster_images/6343/small.jpg?1408458130",
+                "medium": "https://media.kitsu.io/anime/poster_images/6343/medium.jpg?1408458130",
+                "large": "https://media.kitsu.io/anime/poster_images/6343/large.jpg?1408458130",
+                "original": "https://media.kitsu.io/anime/poster_images/6343/original.jpg?1408458130",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Magic",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/452/tiny.jpg?1408441507",
+                "small": "https://media.kitsu.io/anime/poster_images/452/small.jpg?1408441507",
+                "medium": "https://media.kitsu.io/anime/poster_images/452/medium.jpg?1408441507",
+                "large": "https://media.kitsu.io/anime/poster_images/452/large.jpg?1408441507",
+                "original": "https://media.kitsu.io/anime/poster_images/452/original.jpg?1408441507",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Mystery",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/6798/tiny.jpg?1408459438",
+                "small": "https://media.kitsu.io/anime/poster_images/6798/small.jpg?1408459438",
+                "medium": "https://media.kitsu.io/anime/poster_images/6798/medium.jpg?1408459438",
+                "large": "https://media.kitsu.io/anime/poster_images/6798/large.jpg?1408459438",
+                "original": "https://media.kitsu.io/anime/poster_images/6798/original.jpg?1408459438",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Thriller",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/6798/tiny.jpg?1408459438",
+                "small": "https://media.kitsu.io/anime/poster_images/6798/small.jpg?1408459438",
+                "medium": "https://media.kitsu.io/anime/poster_images/6798/medium.jpg?1408459438",
+                "large": "https://media.kitsu.io/anime/poster_images/6798/large.jpg?1408459438",
+                "original": "https://media.kitsu.io/anime/poster_images/6798/original.jpg?1408459438",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Music",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/8404/tiny.jpg?1408464372",
+                "small": "https://media.kitsu.io/anime/poster_images/8404/small.jpg?1408464372",
+                "medium": "https://media.kitsu.io/anime/poster_images/8404/medium.jpg?1408464372",
+                "large": "https://media.kitsu.io/anime/poster_images/8404/large.jpg?1408464372",
+                "original": "https://media.kitsu.io/anime/poster_images/8404/original.jpg?1408464372",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Kids",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/7439/tiny.jpg?1408461358",
+                "small": "https://media.kitsu.io/anime/poster_images/7439/small.jpg?1408461358",
+                "medium": "https://media.kitsu.io/anime/poster_images/7439/medium.jpg?1408461358",
+                "large": "https://media.kitsu.io/anime/poster_images/7439/large.jpg?1408461358",
+                "original": "https://media.kitsu.io/anime/poster_images/7439/original.jpg?1408461358",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Horror",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/13040/tiny.jpg?1486236689",
+                "small": "https://media.kitsu.io/anime/poster_images/13040/small.jpg?1486236689",
+                "medium": "https://media.kitsu.io/anime/poster_images/13040/medium.jpg?1486236689",
+                "large": "https://media.kitsu.io/anime/poster_images/13040/large.jpg?1486236689",
+                "original": "https://media.kitsu.io/anime/poster_images/13040/original.jpg?1486236689",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Psychological",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/43949/tiny.jpg?1611790136",
+                "small": "https://media.kitsu.io/anime/poster_images/43949/small.jpg?1611790136",
+                "medium": "https://media.kitsu.io/anime/poster_images/43949/medium.jpg?1611790136",
+                "large": "https://media.kitsu.io/anime/poster_images/43949/large.jpg?1611790136",
+                "original": "https://media.kitsu.io/anime/poster_images/43949/original.jpg?1611790136",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": 110,
+                            "height": 156
+                        },
+                        "small": {
+                            "width": 284,
+                            "height": 402
+                        },
+                        "medium": {
+                            "width": 390,
+                            "height": 554
+                        },
+                        "large": {
+                            "width": 550,
+                            "height": 780
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Martial Arts",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/13617/tiny.jpg?1499315501",
+                "small": "https://media.kitsu.io/anime/poster_images/13617/small.jpg?1499315501",
+                "medium": "https://media.kitsu.io/anime/poster_images/13617/medium.jpg?1499315501",
+                "large": "https://media.kitsu.io/anime/poster_images/13617/large.jpg?1499315501",
+                "original": "https://media.kitsu.io/anime/poster_images/13617/original.jpg?1499315501",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Supernatural",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/43377/tiny.jpg?1597691193",
+                "small": "https://media.kitsu.io/anime/poster_images/43377/small.jpg?1597691193",
+                "medium": "https://media.kitsu.io/anime/poster_images/43377/medium.jpg?1597691193",
+                "large": "https://media.kitsu.io/anime/poster_images/43377/large.jpg?1597691193",
+                "original": "https://media.kitsu.io/anime/poster_images/43377/original.jpg?1597691193",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": 110,
+                            "height": 156
+                        },
+                        "small": {
+                            "width": 284,
+                            "height": 402
+                        },
+                        "medium": {
+                            "width": 390,
+                            "height": 554
+                        },
+                        "large": {
+                            "width": 550,
+                            "height": 780
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Super Power",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/5241/tiny.jpg?1408454763",
+                "small": "https://media.kitsu.io/anime/poster_images/5241/small.jpg?1408454763",
+                "medium": "https://media.kitsu.io/anime/poster_images/5241/medium.jpg?1408454763",
+                "large": "https://media.kitsu.io/anime/poster_images/5241/large.jpg?1408454763",
+                "original": "https://media.kitsu.io/anime/poster_images/5241/original.jpg?1408454763",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Demon",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/5219/tiny.jpg?1408454702",
+                "small": "https://media.kitsu.io/anime/poster_images/5219/small.jpg?1408454702",
+                "medium": "https://media.kitsu.io/anime/poster_images/5219/medium.jpg?1408454702",
+                "large": "https://media.kitsu.io/anime/poster_images/5219/large.jpg?1408454702",
+                "original": "https://media.kitsu.io/anime/poster_images/5219/original.jpg?1408454702",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Military",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/8036/tiny.jpg?1597691034",
+                "small": "https://media.kitsu.io/anime/poster_images/8036/small.jpg?1597691034",
+                "medium": "https://media.kitsu.io/anime/poster_images/8036/medium.jpg?1597691034",
+                "large": "https://media.kitsu.io/anime/poster_images/8036/large.jpg?1597691034",
+                "original": "https://media.kitsu.io/anime/poster_images/8036/original.jpg?1597691034",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": 110,
+                            "height": 156
+                        },
+                        "small": {
+                            "width": 284,
+                            "height": 402
+                        },
+                        "medium": {
+                            "width": 390,
+                            "height": 554
+                        },
+                        "large": {
+                            "width": 550,
+                            "height": 780
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "genre": "Violence",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/13787/tiny.jpg?1504832269",
+                "small": "https://media.kitsu.io/anime/poster_images/13787/small.jpg?1504832269",
+                "medium": "https://media.kitsu.io/anime/poster_images/13787/medium.jpg?1504832269",
+                "large": "https://media.kitsu.io/anime/poster_images/13787/large.jpg?1504832269",
+                "original": "https://media.kitsu.io/anime/poster_images/13787/original.jpg?1504832269",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "genre": "Motorsport",
+            "posterImage": {
+                "tiny": "https://media.kitsu.io/anime/poster_images/8022/tiny.jpg?1408463258",
+                "small": "https://media.kitsu.io/anime/poster_images/8022/small.jpg?1408463258",
+                "medium": "https://media.kitsu.io/anime/poster_images/8022/medium.jpg?1408463258",
+                "large": "https://media.kitsu.io/anime/poster_images/8022/large.jpg?1408463258",
+                "original": "https://media.kitsu.io/anime/poster_images/8022/original.png?1408463258",
+                "meta": {
+                    "dimensions": {
+                        "tiny": {
+                            "width": null,
+                            "height": null
+                        },
+                        "small": {
+                            "width": null,
+                            "height": null
+                        },
+                        "medium": {
+                            "width": null,
+                            "height": null
+                        },
+                        "large": {
+                            "width": null,
+                            "height": null
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
